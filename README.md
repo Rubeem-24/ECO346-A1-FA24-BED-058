@@ -1,6 +1,8 @@
 # ECO346 Assignment 1: Education Spending and Literacy in Rural Sindh
 
-**Student:** Muhammad Rubeem Afzal | **Reg. no.:** FA24-BED-058 | **Section:** B
+**Student:** Muhammad Rubeem Afzal
+**Reg. no.:** FA24-BED-058
+**Section:** B
 **Course:** Data Visualization Techniques for Economists, COMSATS University Islamabad, Lahore Campus
 
 **Variant 2: Sindh rural.** The registration number ends in 58, and 58 = 7 × 8 + 2, so the remainder is 2. Only persons living in rural Sindh (`prov_code = 3`, `urban_rural = 1`) are used.
